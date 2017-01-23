@@ -1,0 +1,34 @@
+body {
+	padding: 30px;
+	font-size: 0;
+}
+.container {
+	width: 800px;
+	height: 500px;
+	border: 1px solid black;
+}
+.row1 {
+	display: inline-block;
+	width: 50%;
+	height: 200px;
+}
+.row2 {
+	display: inline-block;
+	width: 33.3%;
+	height: 300px;
+}
+.green {
+	background-color: green;
+}
+.blue {
+	background-color: blue;
+}
+.gray {
+	background-color: gray;
+}
+.black {
+	background-color: black;
+}
+.yellow {
+	background-color: yellow;
+}
